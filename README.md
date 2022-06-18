@@ -16,6 +16,8 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beckhem96)](https://solved.ac/beckhem96)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beckhem96)](https://github.com/anuraghazra/github-readme-stats)
 
