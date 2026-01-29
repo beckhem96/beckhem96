@@ -24,12 +24,3 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beckhem96)](https://solved.ac/beckhem96)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beckhem96)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beckhem96&layout=demo&theme=cobalt)
-
-
-
-
-
- 🔭 I’m currently working on SSAFY
